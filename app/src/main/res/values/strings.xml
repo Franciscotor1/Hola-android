@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HolaMiniapp</string>
+    <string name="welcome_message">Hola, bienvenido.</string>
+    <string name="go_to_app">Ir a la app</string>
+    <string name="input_prompt">Escribe tu nombre</string>
+    <string name="greet">Saludar</string>
+    <string name="clear">Borrar</string>
+</resources>
